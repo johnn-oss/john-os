@@ -1,2 +1,4 @@
 # john-os
-Great log of incredible, amazing &amp; very helpful projects. Not the best though, still working on it 
+This is my code's log and it's open for contribution and 
+I'm open-minded, easy to learn
+feel free to contribute!
